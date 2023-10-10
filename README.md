@@ -1,2 +1,1 @@
-# Bachelorarbeit
-Quiz-Anwendung
+# Bachelorarbeit: DFHI_Online_Quiz
